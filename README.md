@@ -1,3 +1,4 @@
+로컬에 db.json 있음 데이타 처리를 로컬에서 함
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
